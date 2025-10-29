@@ -1,4 +1,4 @@
-# 🌱 AntraVision - Monitoramento Inteligente de Antracnose
+# 🌱 AntraVision - Monitoramento Inteligente de Antracnose em Mudas de Pupunha
 
 ![Logo](Frontend/frontend-react/src/assets/new_logo.svg)
 
